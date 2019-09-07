@@ -37,4 +37,5 @@ command F :TlistToggle
 "noremap T 12j
 "noremap N 12k
 "noremap k n
-nmap <F1> <nop>                                                                                                                                                                     imap <F1> <nop>   
+nmap <F1> <nop>                                                                                                                                                                     
+imap <F1> <nop>   
