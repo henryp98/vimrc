@@ -11,9 +11,9 @@ syntax on
 set nu
 set clipboard+=unnamed
 set clipboard+=autoselect
-if has("mouse") && !has("gui_running")
-   set mouse=nvir
-endif
+"if has("mouse") && !has("gui_running")
+"   set mouse=nvir
+"endif
 filetype on
 
 "command J :wq " make :qw do :wq
